@@ -3,8 +3,6 @@
 ___
 
 
-
-
 <h3 align="center">
   <a href="#information_source-sobre">Sobre</a>&nbsp;|&nbsp;
   <a href="#interrobang-motivo">Motivo</a>&nbsp;|&nbsp;
@@ -24,7 +22,7 @@ Para os seguidores me conhecer melhor, ter acesso a outros conteúdos que serão
 
 ## :seedling: Requisitos Mínimos
 
-- Navegador
+- Navegador.
 
 ## :rocket: Tecnologias Utilizadas 
 
