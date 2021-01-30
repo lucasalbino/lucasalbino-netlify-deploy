@@ -24,11 +24,11 @@ Para os seguidores me conhecer melhor, ter acesso a outros conteúdos que serão
 
 ## :seedling: Requisitos Mínimos
 
-- Web Browser
+- Navegador
 
 ## :rocket: Tecnologias Utilizadas 
 
-O projeto foi desenvolvido utilizando as seguintes tecnologias
+O projeto foi desenvolvido utilizando as seguintes tecnologias.
 
 - HTML
 - CSS
